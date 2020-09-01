@@ -44,6 +44,6 @@ p::first-letter {
   color: blue;
 }
 /* Task 4 */
-h2 + p {
+h2 + p::first-line {
   color: red;
 }
